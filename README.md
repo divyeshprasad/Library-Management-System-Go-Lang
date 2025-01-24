@@ -147,7 +147,7 @@ Error: book with ISBN 999999999 not found
 - Basic error handling is included, such as when an ISBN is not found when removing a book.
 
 ## ScreenShots
-![Part1]{Screenshots/Part1.png}
-![Part2]{Screenshots/Part2.png}
-![Part3]{Screenshots/Part3.png}
+![Part1](Screenshots/Part1.png)
+![Part2](Screenshots/Part2.png)
+![Part3](Screenshots/Part3.png)
 
